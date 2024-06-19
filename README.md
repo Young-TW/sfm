@@ -1,4 +1,4 @@
-# SFM - same file remover
+# SFRM - same file remover
 
 ## Description
 
